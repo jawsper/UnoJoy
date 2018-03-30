@@ -75,14 +75,14 @@ Getting Started
 	connect the 2 pins closes to the USB connector together.
 	(the ones that turn from o to | in the diagram)
 
-						  ---->
-			o o o           |        | o o 
+	                      ---->
+	        o o o           |        | o o 
 	----|   o o o           |----|   | o o
-		|                   |    |     
+	    |                   |    |     
 	USB |                   |USB |      
-		|                   |    |   
+	    |                   |    |   
 	----|                   |----|
-							|
+	                        |
 	It should disconnect (be-dun.) and reconnect (buh-din!) 
 	and now show up to your system as 'Arduino UNO DFU'.
 	In OSX, you will get no feedback from your computer, but
